@@ -1,0 +1,13 @@
+{
+  "name": "grunt-contrib-layout",
+  "version": "0.0.1",
+  "description": "A very simple grunt contrib to create dirs and files according to a json formatted tree",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexis Tondelier <atondelier@lafourchette.com>",
+  "license": "MIT",
+  "dependencies": {
+    "grunt": "~0.4.4"
+  }
+}

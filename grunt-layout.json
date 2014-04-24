@@ -1,0 +1,39 @@
+{
+    "example": {
+        "tree": [
+            {
+                "name"   : "aaze",
+                "type"   : "dir",
+                "content": [
+                    {
+                        "content": "toto",
+                        "name"   : "toto.txt",
+                        "type"   : "file"
+                    },
+                    {
+                        "content": [
+                            {
+                                "content": [
+                                    {
+                                        "content": "toto",
+                                        "name"   : "toto.txt",
+                                        "type"   : "file"
+                                    },
+                                    {
+                                        "content": [  ],
+                                        "name"   : "b",
+                                        "type"   : "dir"
+                                    }
+                                ],
+                                "name"   : "a",
+                                "type"   : "dir"
+                            }
+                        ],
+                        "name"   : "b",
+                        "type"   : "dir"
+                    }
+                ]
+            }
+        ]
+    }
+}
